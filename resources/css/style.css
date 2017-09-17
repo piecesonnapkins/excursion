@@ -1,12 +1,11 @@
 * {
-  font-family: Verdana;
+  font-family: Verdana, sans-serif;
   background-color: black;
   text-align: center;
   color: white;
 }
 
 h1 {
-  font-weight: Normal;
   font-size: 50px;
 }
 h2 {
@@ -21,7 +20,7 @@ p {
   color: aquamarine;
   font-size: 16px;
 }
-.copy {
+
+.footer {
   text-align: right;
-  color: grey;
 }
